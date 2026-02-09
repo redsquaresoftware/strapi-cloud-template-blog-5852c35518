@@ -73,6 +73,14 @@
         }
       }
     },
+    "endDate": {
+      "type": "datetime",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
     "cover": {
       "type": "media",
       "pluginOptions": {
